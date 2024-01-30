@@ -1,4 +1,4 @@
-# ReservaPassagem
+# Reserva de Passagem
 Projeto de Linguagem de Programação I ,em Java,  para realizar reservas de passagens aéreas.
 
 # Descrição do Projeto:
